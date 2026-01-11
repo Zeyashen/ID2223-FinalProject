@@ -1,0 +1,13 @@
+hopsworks==4.2.*
+pandas
+openmeteo-requests
+requests-cache
+retry-requests
+joblib
+scikit-learn
+xgboost
+pyarrow
+confluent-kafka
+gradio
+huggingface_hub
+numpy
