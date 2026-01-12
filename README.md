@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/YOUR_HF_USERNAME/YOUR_SPACE_NAME)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Yubaiyubai/ski_predictor)
 [![Hopsworks](https://img.shields.io/badge/Hopsworks-Feature%20Store-green)](https://www.hopsworks.ai/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3.2-orange)](https://scikit-learn.org/)
